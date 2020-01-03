@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d876e4c-be0b-4539-9a8b-23ebd1346d69" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VALEsq9o9zy22UWhk602RnqLv3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="http.certificates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Basics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Functional.MapsKt">
+    <configuration name="Basics.ClassesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinAndroid" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Basics.ClassesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Basics.ExceptionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinAndroid" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Basics.ExceptionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Basics.FunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinAndroid" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Basics.FunctionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Basics.NullSafetyKt" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
+      <module name="KotlinAndroid" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Basics.NullSafetyKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Challenges._2Kt" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
+      <module name="KotlinAndroid" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Challenges._2Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Functional.LambdasKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinAndroid" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Functional.LambdasKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Functional.MapsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinAndroid" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Functional.MapsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Functional.MapsKt" />
+        <item itemvalue="Kotlin.Functional.LambdasKt" />
+        <item itemvalue="Kotlin.Basics.ExceptionsKt" />
+        <item itemvalue="Kotlin.Basics.ClassesKt" />
+        <item itemvalue="Kotlin.Basics.FunctionsKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d876e4c-be0b-4539-9a8b-23ebd1346d69" name="Default Changelist" comment="" />
+      <created>1576690845900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576690845900</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom" timestamp="1577218322939">
+      <screen x="1440" y="-704" width="1920" height="981" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1577057497041" />
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom/1440.-704.1920.1057/0.23.1440.801@1440.-704.1920.1057" timestamp="1577202374582" />
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom/1440.-704.1920.981/0.23.1440.877@1440.-704.1920.981" timestamp="1577218322939" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center" timestamp="1577218322939">
+      <screen x="1440" y="-704" width="1920" height="981" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1577057497040" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center/1440.-704.1920.1057/0.23.1440.801@1440.-704.1920.1057" timestamp="1577202374581" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center/1440.-704.1920.981/0.23.1440.877@1440.-704.1920.981" timestamp="1577218322939" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left" timestamp="1577218322938">
+      <screen x="1440" y="-704" width="1920" height="981" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1577057497040" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left/1440.-704.1920.1057/0.23.1440.801@1440.-704.1920.1057" timestamp="1577202374580" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left/1440.-704.1920.981/0.23.1440.877@1440.-704.1920.981" timestamp="1577218322938" />
+    <state width="1878" height="289" key="GridCell.Tab.0.right" timestamp="1577218322939">
+      <screen x="1440" y="-704" width="1920" height="981" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1577057497041" />
+    <state width="1878" height="289" key="GridCell.Tab.0.right/1440.-704.1920.1057/0.23.1440.801@1440.-704.1920.1057" timestamp="1577202374582" />
+    <state width="1878" height="289" key="GridCell.Tab.0.right/1440.-704.1920.981/0.23.1440.877@1440.-704.1920.981" timestamp="1577218322939" />
+    <state x="374" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1577197272758">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="374" y="272" key="com.intellij.ide.util.TipDialog/0.23.1440.801@0.23.1440.801" timestamp="1576965371738" />
+    <state x="374" y="272" key="com.intellij.ide.util.TipDialog/1440.-704.1920.1057/0.23.1440.801@0.23.1440.801" timestamp="1577197272758" />
+    <state x="374" y="296" key="com.intellij.ide.util.TipDialog/1440.-704.1920.974/0.23.1440.877@0.23.1440.877" timestamp="1576690908013" />
+    <state x="374" y="296" key="com.intellij.ide.util.TipDialog/1440.-704.1920.981/0.23.1440.877@1440.-704.1920.981" timestamp="1576787419085" />
+    <state x="1836" y="-699" width="1127" height="1046" key="find.popup" timestamp="1577198365433">
+      <screen x="1440" y="-704" width="1920" height="1057" />
+    </state>
+    <state x="297" y="27" width="845" height="792" key="find.popup/0.23.1440.801@0.23.1440.801" timestamp="1576965758199" />
+    <state x="1836" y="-699" width="1127" height="1046" key="find.popup/1440.-704.1920.1057/0.23.1440.801@1440.-704.1920.1057" timestamp="1577198365433" />
+    <state x="404" y="204" key="run.anything.popup" timestamp="1576691039508">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="404" y="204" key="run.anything.popup/1440.-704.1920.981/0.23.1440.877@0.23.1440.877" timestamp="1576691039508" />
+  </component>
+</project>
